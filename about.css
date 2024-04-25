@@ -147,6 +147,7 @@ font-family: 'Ysabeau SC', sans-serif;
   0% {
     transform: translateY(-90%);
   }
+
   100% {
     transform: translateY(0%);
   }
@@ -156,6 +157,7 @@ font-family: 'Ysabeau SC', sans-serif;
   0% {
     opacity: 0;
   }
+
   100% {
     opacity: 1;
   }
